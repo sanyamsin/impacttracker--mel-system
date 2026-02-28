@@ -1,2 +1,2 @@
 # impacttracker-mel-system
-Automated Monitoring, Evaluation and Learning system form humanitarian
+Automated Monitoring, Evaluation and Learning system for humanitarian
